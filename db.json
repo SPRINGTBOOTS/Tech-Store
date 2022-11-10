@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "user": "AVIVE",
+      "name": "ALVARO VILLADIEGO",
+      "email": "skapool@gmail.com",
+      "password": "12345",
+      "rol": "admin",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Reloj",
+      "price": 1400,
+      "image": "reloj"
+    },
+    {
+      "id": 2,
+      "name": "Automóvil antiguo miniatura",
+      "price": 2400,
+      "image": "https://picsum.photos/id/111/4400/2656"
+    },
+    {
+      "id": 3,
+      "name": "Zapatos de dama",
+      "price": 1000,
+      "image": "https://picsum.photos/id/21/3008/2008"
+    },
+    {
+      "name": "COMPUTADOR PORTATIL ASUS I7",
+      "price": "3600000",
+      "image": "",
+      "id": 4
+    }
+  ]
+}
